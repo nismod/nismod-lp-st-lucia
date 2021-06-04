@@ -1,5 +1,7 @@
 # Long-term strategic infrastructure planning model for Saint Lucia
 
+[![DOI](https://zenodo.org/badge/373803277.svg)](https://zenodo.org/badge/latestdoi/373803277)
+
 This Excel model encodes the analytical capability required to undertake an
 application of the unique and pioneering National Infrastructure Systems
 Modelling (NISMOD) capability, which has been developed by the Infrastructure
